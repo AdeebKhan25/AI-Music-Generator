@@ -19,7 +19,7 @@ git clone https://github.com/AdeebKhan25/AI-Music-Generator.git
 cd AI-Music-Generator
 ```
 
-2. Download and install python
+2. Download and install python.
 
 3. Install dependencies:
 
